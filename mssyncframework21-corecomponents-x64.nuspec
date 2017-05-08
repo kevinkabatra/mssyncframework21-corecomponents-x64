@@ -4,6 +4,7 @@
   <metadata>
     <id>mssyncframework21-corecomponents-x64</id>
     <version>2.1.1648.0</version>
+    <packageSourceUrl>https://github.com/kevinkabatra/mssyncframework21-corecomponents-x64</packageSourceUrl>
     <title>Microsoft Synchronization Framework 2.1 Core Components (x64)</title>
     <authors>Microsoft</authors>
     <owners>Kevin Kabatra</owners>
