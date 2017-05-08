@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>mssyncframework21-corecomponents-x64</id>
+    <version>2.1.1648.0</version>
+    <title>Microsoft Synchronization Framework 2.1 Core Components (x64)</title>
+    <authors>Microsoft</authors>
+    <owners>Kevin Kabatra</owners>
+    <licenseUrl>http://msdn.microsoft.com/en-US/cc300389.aspx</licenseUrl>
+    <projectUrl>http://www.microsoft.com/en-ca/download/details.aspx?id=23217</projectUrl>
+    <iconUrl>http://findicons.com/files/icons/2796/metro_uinvert_dock/128/microsoft_new_logo_alt.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>Microsoft Synchronization Sync Framework 2.1 Core Components x64 admin</tags>
+    <summary>Microsoft Sync Framework is a comprehensive synchronization platform enabling collaboration and offline for applications, services and devices. Developers can build synchronization ecosystems that integrate any application, any data from any store using any protocol over any network.</summary>
+    <description>Sync Framework 2.1 introduces new features that let you synchronize a SQL Server or SQL Server Compact database on your computer with a SQL Azure database. This release also introduces parameter-based filtering, the ability to remove synchronization scopes and templates from a database, and performance enhancements to make synchronization faster and easier.</description>
+    <copyright />
+  </metadata>
+</package>
